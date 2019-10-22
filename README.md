@@ -1,5 +1,3 @@
-# Rozmaryblack.github.io
-Тестовое задание
 <!DOCTYPE html>
 <html>
 	<head>
