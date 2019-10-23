@@ -1,0 +1,113 @@
+.fon
+			{
+			position: fixed;
+			display: block;
+			position: absolute;
+			background-color: #ffe4e1;
+			width: 1000px;
+			height:1200px;
+			top: 5%;
+			left: 23%;
+			padding: 8px 8px;
+
+			
+			box-shadow: 0 0 40px rgba(0,0,0,0.5);
+			}
+
+img
+		{
+		    position: fixed left;
+			width: 300px;
+			height:300px;
+			margin-top:-300px;
+			margin-left: 100px;
+
+		}
+.hate
+			{
+			position: fixed left;
+			margin-left: 400px;
+			background-color: #fff;
+			width: 500px;
+			height:50px;
+			top: -80px;
+			left: 60px;
+
+			
+			}
+h2
+			{
+			text-align: justify;
+			margin-left: 75px;
+			margin-top: 40px;	
+			font-size:	30px;		
+			}
+.hat
+			{
+			margin-left: 400px;
+			background-color: #fff;
+			width: 500px;
+			height:240px;
+			top: 0%;
+			left: 33%;
+			}
+.text1
+			{
+			text-align: justify;
+			margin-left: 75px;
+			margin-top: -5px;
+			font-size:	20px;	
+			}
+		
+table
+			{
+			height: 200px;
+			width: 800px;
+			margin-top: 20px;
+			margin-left: 100px;
+
+			}
+caption
+			{
+			margin-bottom: -0px;
+			height: 18%;
+			width: 100%;
+			text-align: 80 px;
+			}
+th
+			{
+			text-align: center;
+			}
+td
+			{
+			text-align: center;
+			}
+.pat1
+		{
+			text-align: center;
+		}
+.pat2
+		{
+			text-align: center;
+		}
+.spis
+		{
+			font-size: 20px;
+			margin-left: 100px;
+		}
+hr
+		{
+			background-color: red; 
+			color: red;
+			height: 2px;
+			width: 800px;
+		}
+.JS
+{
+	text-align: center;
+	font-size: 20px;
+	background-color: #fff;
+	width: 800px;
+	margin-left: 100px;
+	
+}
